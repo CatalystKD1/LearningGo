@@ -7,7 +7,7 @@ import (
 
 // Runtime is a package that allows for low level management
 
-/*
+/* Use go doc runtime NumCPU for the Go documentation
 NumCPU returns the number of logical CPUs usable by the current process.
 
 The set of available CPUs is checked by querying the operating system at process startup. 
