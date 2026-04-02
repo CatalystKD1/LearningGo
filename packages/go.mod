@@ -1,0 +1,3 @@
+module learninggo
+
+go 1.26.1
