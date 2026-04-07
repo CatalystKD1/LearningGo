@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	//f.Printf("%#v\n", os.Args)
+	f.Printf("%#v\n", os.Args)
 
 	f.Println("Paths:", os.Args[0])
 	f.Println("1st argument:", os.Args[1])
